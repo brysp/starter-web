@@ -15,3 +15,8 @@ Adding deployment
 Adding purpose.
 
 # How To Contribute
+
+
+### Copyright
+
+Git Git
