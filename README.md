@@ -8,6 +8,10 @@ Adding second.
 
 ## Deployment
 
+Adding deployment
+
 ## Purpose
+
+Adding purpose.
 
 # How To Contribute
