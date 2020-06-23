@@ -16,6 +16,7 @@ Adding purpose.
 
 # How To Contribute
 
+Please fork this shiet.
 
 ### Copyright
 
