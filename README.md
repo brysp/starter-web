@@ -20,4 +20,4 @@ Please fork this shiet.
 
 ### Copyright
 
-Git Git
+Git Git. All rights reserved
